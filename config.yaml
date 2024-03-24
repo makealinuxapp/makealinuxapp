@@ -1,0 +1,27 @@
+baseURL: 'https://makealinuxapp.github.io/makealinuxapp/'
+languageCode: en-gb
+title: 'Make A Linux App'
+theme: "relearn"
+buildFuture: true
+params:
+  contact: makealinuxapp@popey.com
+  github: makealinuxapp
+  mastodon: https://mastodon.social/@makealinuxapp
+  source_repo: https://github.com/makealinuxapp/makealinuxapp
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    title: Make A Linux App
+    contentDir: content/en
+    disabled: false
+    languageDirection: ltr
+    weight: 1
+    params:
+      description: >-
+        An initiative to encourage and educate on developing applications for Linux. 
+        It is a place for everyone who is interested in using, developing with Ubuntu, or contributing to Ubuntu projects.
+      copyright: >-
+        © 2024 Make A Linux App Team
+        Except where otherwise noted, Website source code licensed under MIT
+
