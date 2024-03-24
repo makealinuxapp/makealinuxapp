@@ -1,6 +1,10 @@
 ## Make A Linux App
 
-This repo will contain the source for the [makealinuxapp](https://makealinux.app) site. Currently the site source is at [popey/makealinux.app](https://github.com/popey/makealinux.app). The website is being re-made here, and will deploy to the site once ready.
+![Deployment status](https://github.com/makealinuxapp/makealinuxapp/actions/workflows/hugo.yaml/badge.svg)
+
+This repo will contain the source for the [makealinuxapp](https://makealinux.app) site. 
+
+The previous site source is at [popey/makealinux.app](https://github.com/popey/makealinux.app). The website is being re-made here, and we will deploy it to the site once it is ready. The in-development deployment can be found at https://makealinuxapp.github.io/makealinuxapp/
 
 ## Get involved
 
