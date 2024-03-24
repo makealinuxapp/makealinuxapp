@@ -7,5 +7,8 @@ weight: "2"
 
 ## GNOME
 
-Make a Linux app for GNOME using GTK.
+The GNOME project builds the popular GNOME Shell desktop, and enables development based around Gjs and Gtk. Popular programming languages may be used with Gtk, including Python, C, C++, Rust, and even Javascript.
 
+## Further resources
+
+* [GNOME Development](https://developer.gnome.org/)

@@ -6,4 +6,8 @@ draft: false
 
 ## AppImage
 
-Distributing Linux apps as AppImages.
+Distribute your desktop Linux application in the AppImage format and win users running all common Linux distributions. Package once and run everywhere. Reach users on all major desktop distributions.
+
+## Further resources
+
+* [AppImage Packaging Guide](https://docs.appimage.org/packaging-guide/index.html)
